@@ -1,6 +1,6 @@
 # WE-CHAT
 
-<h1 align="center">Chatter - Building a Flutter Chat Application From Scratch</h1>
+<h1 align="center">WE-CHAT - Our first Chat Application </h1>
 
 <p align="center">
     <a href="https://pub.dev/packages/stream_feed_flutter_core"><img src="https://img.shields.io/pub/v/stream_feed_flutter_core?include_prereleases" alt="Pub"></a>
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">  
-Chatter is a demo application showing how to create a chat app from scratch using <a href="https://flutter.dev/">Flutter</a> and the <a href="https://pub.dev/packages/stream_chat_flutter_core/">Stream Chat Flutter Core package</a>.
+WeChat is a Chat application which is the next Chatting revolution for this World</a>.
 </br>
 
 <p align="center">
@@ -20,34 +20,6 @@ Chatter is a demo application showing how to create a chat app from scratch usin
 
 ## Where To Start
 If you're new to Stream Chat Flutter, we recommend taking a look at the official tutorial: https://getstream.io/chat/flutter/tutorial/
-
-
-## Installation Instructions
-
-```bash
-git clone https://github.com/HayesGordon/chatter.git
-```
-
-Check out the required branch
-
-```bash
-git checkout {branch-name}
-```
-
-Install dependencies
-```bash
-flutter pub get
-```
-
-Generate the needed platform folders (Android, iOS). Some of the branches may have these already included.
-
-```bash
-flutter create .
-```
-
-## Further Setup
-
-Add your Stream app's key in `lib/app.dart`.
 
 
  
